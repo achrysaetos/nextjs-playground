@@ -8,5 +8,8 @@ React, TypeScript, Next.js, TailwindCSS, Shadcn, Bun
 ### hackernews
 React, TypeScript, Next.js, TailwindCSS, Shadcn, Node
 
+### tictactoe
+React, TypeScript, Next.js, TailwindCSS, Node
+
 ### todo-app
 React, TypeScript, Next.js, Supabase, TailwindCSS, Shadcn, Node
