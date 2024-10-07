@@ -13,4 +13,3 @@ React, TypeScript, Next.js, TailwindCSS, Node
 
 ### todo-app
 React, TypeScript, Next.js, Supabase, TailwindCSS, Shadcn, Node
-
